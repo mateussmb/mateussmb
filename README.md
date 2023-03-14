@@ -1,6 +1,6 @@
-<h1> Bem-vindo ao meu perfil  </h1> <img src="[https://media3.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif](https://www.flaticon.com/free-animated-icon/responsive_8722699?term=code&page=1&position=4&origin=search&related_id=8722699)](https://cdn-icons-mp4.flaticon.com/512/8722/8722699.mp4)" sizes="40x40"></img>
+<h1> Bem-vindo ao meu perfil  </h1> <img src="https://www.flaticon.com/free-animated-icon/html_8722703?term=code&page=1&position=5&origin=search&related_id=8722703" sizes="40x40"></img>
 <p> Olá, meu nome é [seu nome] e sou um desenvolvedor front-end apaixonado por tecnologia e design. Neste perfil, você encontrará alguns dos meus projetos pessoais, bem como meu trabalho em colaboração com outros desenvolvedores. </p>
 <p> Eu amo criar sites e aplicativos que não apenas parecem bons, mas também são funcionais e fáceis de usar. Para alcançar esse objetivo, uso as melhores práticas de desenvolvimento front-end e as mais recentes tecnologias disponíveis. Estou sempre em busca de novas ferramentas e métodos para melhorar meu trabalho e a experiência do usuário. </p>
 <p> Além disso, estou sempre aprendendo e compartilhando meus conhecimentos com a comunidade. Se você tiver alguma pergunta ou quiser colaborar em algum projeto, fique à vontade para entrar em contato comigo. </p>
 <p> Obrigado por visitar meu perfil do Github! Espero que você goste dos meus projetos e encontre algo que inspire seu próprio trabalho. </p>
-![image](https://user-images.githubusercontent.com/78173914/225068287-ba274cba-528c-4182-85d5-8f9d5d92f341.png)
+
