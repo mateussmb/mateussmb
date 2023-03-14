@@ -3,3 +3,4 @@
 <p> Eu amo criar sites e aplicativos que não apenas parecem bons, mas também são funcionais e fáceis de usar. Para alcançar esse objetivo, uso as melhores práticas de desenvolvimento front-end e as mais recentes tecnologias disponíveis. Estou sempre em busca de novas ferramentas e métodos para melhorar meu trabalho e a experiência do usuário. </p>
 <p> Além disso, estou sempre aprendendo e compartilhando meus conhecimentos com a comunidade. Se você tiver alguma pergunta ou quiser colaborar em algum projeto, fique à vontade para entrar em contato comigo. </p>
 <p> Obrigado por visitar meu perfil do Github! Espero que você goste dos meus projetos e encontre algo que inspire seu próprio trabalho. </p>
+![image](https://user-images.githubusercontent.com/78173914/225068287-ba274cba-528c-4182-85d5-8f9d5d92f341.png)
