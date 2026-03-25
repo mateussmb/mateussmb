@@ -1,7 +1,7 @@
 <h1>Bem-vindo ao meu perfil!</h1>
 
 <p>
-Eu sou o Mateus, desenvolvedor Back-end, e gosto de duas coisas principais: resolver problema chato com código e deixar sistema bem organizado. Não curto solução improvisada, prefiro pensar na arquitetura antes e construir algo que dê pra manter e evoluir sem dor de cabeça.
+Eu sou o Mateus, desenvolvedor Pleno, e gosto de duas coisas principais: resolver problema chato com código e deixar sistema bem organizado. Não curto solução improvisada, prefiro pensar na arquitetura antes e construir algo que dê pra manter e evoluir sem dor de cabeça.
 </p>
 
 <p>
